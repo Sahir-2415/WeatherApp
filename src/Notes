@@ -1,0 +1,6 @@
+NOTES FOR THE WEATHER APP
+
+1. Used rafce this time , it is a react arrow function component 
+2. Deleted everything from App.css and wrote * thingy
+3. Changed the title of the web page by going in index.html
+4. added images in assets folder and imported it
